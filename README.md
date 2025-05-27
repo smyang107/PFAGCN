@@ -6,7 +6,7 @@ Official implementation of **PF-AGCN**, a dual-graph model integrating hierarchi
 - **Adaptive GCN**: Preserves native biological graph structures while learning refined representations
 - **Dual-Branch Module**: Fuses ESM protein language model with dilated causal CNNs for global-local feature synergy
 - **State-of-the-Art Performance**: Outperforms baselines on CAFA-style benchmarks across BP/MF/CC ontologies
-![Model Architecture](docs/architecture.png)
+![Model Architecture](all_network.png)
 [Project Page](https://github.com/smyang107/PFAGCN/) 
 # dataset
 data available at: http://deepgo.bio2vec.net/data/deepgo/data.tar.gz
